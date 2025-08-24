@@ -46,3 +46,19 @@
 ---
 
 Each of these roles contributes to the project’s success by ensuring that the product is well-designed, functional, high quality, and delivered on time. Collaboration across all roles is essential to achieving project goals.  
+
+
+## 🎨 UI Component Patterns
+
+As part of the AirBnB Clone project, the following UI components will be created and reused across the application to ensure consistency, scalability, and maintainability:
+
+### 🔝 Navbar
+- Displays the site logo, navigation links, and user account options.  
+- Provides quick access to search functionality and property categories.  
+- Stays responsive and accessible across devices (desktop, tablet, mobile).  
+
+### 🏠 Property Card
+- Shows a property’s image, title, location, price, and rating.  
+- Includes interactive elements such as “Save to Favorites” or “Book Now.”  
+- Designed to be reusable across property listings, search results, an
+
