@@ -62,3 +62,57 @@ As part of the AirBnB Clone project, the following UI components will be created
 - Includes interactive elements such as “Save to Favorites” or “Book Now.”  
 - Designed to be reusable across property listings, search results, an
 
+  ## 👥 Team Roles
+
+In this project, each team member has a specific role and responsibility to ensure smooth collaboration and successful delivery. The following roles are inspired by the project overview and industry standards (including insights from the ITRexGroup blog):
+
+### 🖥️ Backend Developer
+- Responsible for building and maintaining the server-side logic of the application.  
+- Implements APIs, authentication, and integrations with external services.  
+- Ensures security, scalability, and performance of the back-end.  
+
+### 🗄️ Database Administrator (DBA)
+- Designs and manages the project’s databases.  
+- Ensures data integrity, security, and backup strategies.  
+- Optimizes queries and improves database performance.  
+
+### 🎨 Frontend Developer
+- Builds the user interface (UI) based on design specifications.  
+- Ensures responsiveness, accessibility, and seamless integration with the backend.  
+- Implements reusable UI components to maintain consistency.  
+
+### 📐 UI/UX Designer
+- Creates wireframes, prototypes, and visual designs.  
+- Ensures the application is intuitive, user-friendly, and aesthetically consistent.  
+- Collaborates closely with frontend developers to align design and implementation.  
+
+### ✅ QA Engineer / Tester
+- Develops and executes test plans to identify bugs and usability issues.  
+- Performs manual and automated testing across different environments.  
+- Ensures the product meets quality standards before deployment.  
+
+### ⚙️ DevOps Engineer
+- Sets up and maintains CI/CD pipelines for smooth deployments.  
+- Manages infrastructure, monitoring, and application scalability.  
+- Ensures high availability and security of the deployed product.  
+
+### 👩‍💼 Project Manager
+- Oversees the planning, execution, and delivery of the project.  
+- Coordinates between team members and stakeholders.  
+- Tracks progress, resolves blockers, and ensures timely delivery.  
+
+### 👨‍💼 Product Owner
+- Defines the product vision and goals.  
+- Prioritizes features and manages the product backlog.  
+- Acts as the main liaison between stakeholders and the development team.  
+
+### 🌀 Scrum Master
+- Facilitates Agile ceremonies such as stand-ups, sprint planning, and retrospectives.  
+- Coaches the team in Agile best practices and removes obstacles.  
+- Encourages collaboration and continuous improvement.  
+
+---
+
+Each role contributes uniquely to the success of the project. Collaboration, accountability, and communication between these roles ensure the delivery of a high-quality, user-focused product.  
+
+
