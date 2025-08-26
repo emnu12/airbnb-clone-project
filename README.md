@@ -216,3 +216,30 @@ For this project, the CI/CD pipeline will help maintain code quality, automate t
 - **Docker**: Provides consistent containerized environments for development, testing, and production.
 - **Postman / Newman**: For automated API testing as part of the pipeline.
 - **Heroku / AWS**: For automated deployment of the backend and frontend services.
+
+  ## UI/UX Design Planning
+
+### Design Goals
+- **Intuitive navigation:** Users can easily browse, search, and book properties.
+- **Clear presentation of information:** Key property details and pricing are easy to find.
+- **Smooth booking flow:** Minimize friction from selection to checkout.
+- **Responsive design:** Works seamlessly on desktop and mobile devices.
+
+### Key Features
+- Property search and filtering
+- Interactive property listing cards
+- Detailed property view with images, amenities, and reviews
+- Simple and secure checkout process
+- User account management for booking history
+
+### Primary Pages
+
+| Page Name | Description | Key Elements |
+|-----------|-------------|--------------|
+| **Property Listing View** | Displays all available properties with summary info for easy browsing. | Property cards with images, price, location, rating, and a “View Details” button. |
+| **Listing Detailed View** | Shows full details of a selected property. | Image carousel, full description, amenities, reviews, booking availability, and “Book Now” button. |
+| **Simple Checkout View** | Allows user to confirm booking and complete payment. | Booking summary, payment form, confirmation button, and clear success/error messages. |
+
+### Importance of User-Friendly Design
+A user-friendly design is crucial in a booking system because it improves user satisfaction and boosts conversion rates. Clear layouts, intuitive navigation, and accessible information reduce frustration, encourage repeat bookings, and build trust. Users can complete tasks efficiently, from browsing to payment, creating a seamless and enjoyable experience.
+
